@@ -1,0 +1,7 @@
+Solutions to SICP Exercises
+
+1. Each exercise is a .rkt file that can be run by a Racket interpreter.
+2. Answer descriptions are included in the files as comments wherever necessary.
+
+SICP: http://mitpress.mit.edu/sicp/
+Racket: http://racket-lang.org/
