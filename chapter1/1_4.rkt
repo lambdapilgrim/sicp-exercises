@@ -1,4 +1,4 @@
-#! /usr/local/bin/racket
+#! /usr/bin/env racket
 #lang racket
 
 (define (a-plus-abs-b a b)

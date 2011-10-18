@@ -1,4 +1,4 @@
-#! /usr/local/bin/racket
+#! /usr/bin/env racket
 #lang racket
 
 (define (sum-of-squares-of-largest-two x y z)
