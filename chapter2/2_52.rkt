@@ -2,6 +2,7 @@
 #lang racket
 
 (require (planet "sicp.ss" ("soegaard" "sicp.plt" 2 1)))
+
 (define (wave frame)
   ((segments->painter (list (make-segment (make-vector 0 0.9) (make-vector 0.2 0.7))
                            (make-segment (make-vector 0.2 0.7) (make-vector 0.35 0.75))
